@@ -47,7 +47,7 @@ The above command will take you to your home directory and then navigate to the 
 Clone the instructor repository on to your local machine
 
 ```
-git clone https://birmingham.bootcampcontent.com/university-of-birmingham/ubhm-brm-fsf-pt-11-2021-u-c.git instructor
+git clone git@birmingham.bootcampcontent.com:university-of-birmingham/ubhm-brm-fsf-pt-11-2021-u-c.git instructor
 cd instructor
 code .
 ```
