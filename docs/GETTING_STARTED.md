@@ -26,7 +26,7 @@ cd coding_bootcamp
 
 ### 2. Setup your SSH Keys
 
-Follow the [SSH.md](./SSH.md) guide
+Follow the instructions for [Github](./GITHUB_SSH_SETUP.md) and [Gitlab](./GITLAB_SSH_SETUP.md).
 
 ---
 
@@ -79,14 +79,14 @@ Create a new repository in GitHub using the website
 - In the **Repository Name** field enter **coding-bootcamp**
 - **DO NOT** add or check anything else on the page and then click **Create Repository**
 - **DO NOT** close this page
-- In the 'Quick setup — if you’ve done this kind of thing before' section ensure that the 'HTTPS' is selected and then click on the clipboard icon to copy the HTTPS link in to your clipboard
+- In the 'Quick setup — if you’ve done this kind of thing before' section ensure that the 'SSL' is selected and then click on the clipboard icon to copy the SSL link in to your clipboard
 
 **Step 3:**
 
 Come back to your terminal and add the following commands:
 
 ```
-git clone <https_link_here> classroom
+git clone <ssl_link_here> classroom
 cd classroom
 code .
 ```
