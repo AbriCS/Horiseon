@@ -7,28 +7,38 @@ The purpose of this task was to review and revise the website code to ensure it 
 ## Description
 
 Horiseon is a consultancy company supporting organisations with their social media marketing. 
-The Coronavirus Pandemic has forced the Horiseon Executive team to revise the efficact of all their marketing tools
+The Coronavirus Pandemic has forced the Horiseon Executive team to revise the efficacy of all their marketing tools
 which includes Search Engine Optimisation (SEO) of the company's website.
 
 ## Getting Started
+The following minimum requirements were secured;
+* 5G Wifi 
+* Git hub repository.
+This was an important step as Github safely stores the changes and allow others to comment on the revisions.
 
-### Dependencies
+### Initial steps
+* Read the Brief  
+* Clarify the acceptance criteria.
+* Log into Github
+Create a new Repository then Copy the SSH key to the local computer.
+This is achieved by clicking the little boxes next to the Git Hub key. See the image below
+<a href= <img src=".assets/images/Github-SSH-Clone_Key.jpg" alt="picture Clone key in Github"  >
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
+### Executing program
+
+* Open the Terminal (cmd +T) and create a home file  for the Horiseon Project
+* Open the the local home file and type              1) 'Git clone' then "paste the copied SSH key with a single space in between "                          2) 'Git add' followed by 'Git Commit -m' "insert the name of the changes made
+* Step-by-step bullets
+* Open the 
+
+```
+code blocks for commands
+```
 ### Installing
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Help
 
@@ -39,17 +49,15 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Jean McLeod  
+Jean McLeod
+email: <mailto: AbriCSltd@gmail.com />
 ex. [@AbriCS](https://twitter.com/AbriCS
 
 ## Version History
-
+```
 * 0.2
-    * See [here](https://abrics.github.io/Horiseon/) for the final release. 2021/12/12. 
-    
-    See [release history]()
+    * See [here](https://abrics.github.io/Horiseon/ )for the final release. 2021/12/12. 
+ ```   
     
 * 0.1
     * Initial Release 2021/12/02
