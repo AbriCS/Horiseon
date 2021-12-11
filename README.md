@@ -7,7 +7,7 @@ The purpose of this task was to review and revise the website code to ensure it 
 ## Description
 
 Horiseon is a consultancy company supporting organisations with their social media marketing. 
-The Coronavirus Pandemic has forced the Horiseon Executive team to re-evaluate their marketing strategy
+The Coronavirus Pandemic has forced the Horiseon Executive team to revise the efficact of all their marketing tools
 which includes Search Engine Optimisation (SEO) of the company's website.
 
 ## Getting Started
@@ -41,26 +41,27 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Jean McLeod  
+ex. [@AbriCS](https://twitter.com/AbriCS
 
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * See [here](https://abrics.github.io/Horiseon/) for the final release. 2021/12/12. 
+    
+    See [release history]()
+    
 * 0.1
-    * Initial Release
+    * Initial Release 2021/12/02
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Creative Commons] License and is free to use and develop. Citation of the Author is recommended.
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Skewhiffy](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [UoB-Trilogy](https://github.com/dbader/readme-template)
+* [John](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)

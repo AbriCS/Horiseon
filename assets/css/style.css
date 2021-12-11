@@ -114,6 +114,7 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    display: flexbox;
 }
 
 .benefit-lead img {
@@ -135,7 +136,7 @@ p {
 }
 
 .search-engine-optimization {
-    margin-bottom: 20px;
+    margin-bottom: 36.5px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -144,7 +145,7 @@ p {
 }
 
 .online-reputation-management {
-    margin-bottom: 20px;
+    margin-bottom: 36.5px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -189,7 +190,7 @@ p {
 }
 
 .footer {
-    padding: 30px;
+    padding: 5px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
