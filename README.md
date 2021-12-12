@@ -22,18 +22,21 @@ This was an important step as Github safely stores the changes and allow others 
 * Log into Github
 Create a new Repository then Copy the SSH key to the local computer.
 This is achieved by clicking the little boxes next to the Git Hub key. See the image below
-<a href= <img src=".assets/images/Github-SSH-Clone_Key.jpg" alt="picture Clone key in Github"  >
+ 
+<img src="~coding_bootcamp/Homework/Horiseon/assets/images/Github-SSH-Clone-Key.jpg"
+
+Github-SSH-Clone-Key.jpg
 
 
 ### Executing program
 
-* Open the Terminal (cmd +T) and create a home file  for the Horiseon Project
-* Open the the local home file and type              1) 'Git clone' then "paste the copied SSH key with a single space in between "                          2) 'Git add' followed by 'Git Commit -m' "insert the name of the changes made
-* Step-by-step bullets
-* Open the 
+* Open the Terminal (cmd +T) on the local computer and create a home file  for the Horiseon Project
+* Open the file then type the following;
+* <b>'Git clone'<b> then "paste the copied SSH key here"
+* Type <b>'Git add'<b> followed by <b>'Git Commit -m'<b> followed by "insert the name of the changes made inside the speech marks"
 
 ```
-code blocks for commands
+clone, add, commit, push
 ```
 ### Installing
 
