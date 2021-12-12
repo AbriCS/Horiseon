@@ -4,11 +4,13 @@ This is the first portfolio task undertaken for UoB/Trilogy Coding Bootcamp 2021
 
 The purpose of this task was to review and revise the website code to ensure it meets quality and legislated standards.
 
+
 ## Description
 
 Horiseon is a consultancy company supporting organisations with their social media marketing.
 The Coronavirus Pandemic has forced the Horiseon Executive team to revise the efficacy of all their marketing tools
 which includes Search Engine Optimisation (SEO) of the company's website.
+
 
 ## Getting Started
 
@@ -20,15 +22,20 @@ The following minimum requirements were secured;
  * This is an important step as Github safely stores the changes remotely and allow others to comment on the revisions.
  ```
 
+
 ### Initial steps
 
 - Read the Brief
 - Clarify the acceptance criteria.
 - Log into Github
-  Create a new Repository then Copy the SSH key to the local computer.
-  This is achieved by clicking the little boxes next to the Git Hub key. See the image below
+- Create a new Repository  
+- Copy the SSH key to the local computer.
+ <p> 
+ * This is achieved by clicking the little boxes next to the Git Hub key. See the image below
+ </p>
 
-<img src="~coding_bootcamp/Homework/Horiseon/assets/images/Github-SSH-Clone-Key.jpg" />
+<img src="./assets/images/Github-SSH-Clone-Key.jpg" />
+
 
 ### Executing program
 
@@ -41,14 +48,9 @@ The following minimum requirements were secured;
 clone, add, commit, push
 ```
 
-### Installing
-
-- How/where to download your program
-- Any modifications needed to be made to files/folders
-
 ## Help
 
-Any advise for common problems or issues.
+Advise for common problems or issues.
 
 ```
 clone, add, commit, push, status
@@ -56,27 +58,27 @@ clone, add, commit, push, status
 
 ## Authors
 
-Jean McLeod
-email: <mailto:AbriCSltd@gmail.com />
-[@AbriCSltd](https://twitter.com/AbriCSltd)
+- Jean McLeod
+- <a href="mailto:AbriCSltd@gmail.com">email me</a>
+- [@AbriCSltd](https://twitter.com/AbriCSltd)
 
 ## Version History
 
-- 0.2  <b>The Latest<b>
-    - Click[here](https://abrics.github.io/Horiseon)for the final release. 2021/12/12.
+- <b>0.2  The Latest<b>
+    - Click [here] (https://abrics.github.io/Horiseon)for the final release. 2021/12/12.
 
 - 0.1
   - Initial Release 2021/12/02
 
 ## License
 
-This project is licensed under the [Creative Commons] License and is free to use and develop. Citation of the Author is recommended.
+This project is licensed under the - [Creative Commons](https://creativecommons.org/licenses/by/2.0/uk/) License and is free to use and develop. Citation of the Author is recommended.
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 
 - [awesome-readme](https://github.com/matiassingers/awesome-readme)
-- [Skewhiffy](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-- [UoB-Trilogy](https://github.com/dbader/readme-template)
-- [John](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+- [NHSX](hhttps://www.nhsx.nhs.uk/ai-lab/ai-lab-programmes/ai-health-and-care-award/)
+- [UoB-Trilogy](https://bootcamp.birmingham.ac.uk/coding/landing/?s=Google-Unbranded&pkw=%2Bcoding%20%2Bbootcamp&pcrid=454909807365&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUNIVERSITY-OF-BIRMINGHAM%7CSEM%7CCODING%7C-%7COFL%7CTIER-1%7CALL%7CNBD-G%7CBMM%7CCore%7CBootcamp&utm_term=%2Bcoding%20%2Bbootcamp&s=google&k=%2Bcoding%20%2Bbootcamp&utm_adgroupid=106515441535&utm_locationphysicalms=1006524&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=454909807365&utm_placement=&gclid=Cj0KCQiA2NaNBhDvARIsAEw55hh2jnTma9JMstvSPUY-bfd54sW6ixZrA6E7s-3D79KtXkNCsKTlA4caAuJeEALw_wcB&gclsrc=aw.ds)
+- [TruTech](https://twitter.com/abricsltd/status/1163165497195712514?s=20)
